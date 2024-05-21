@@ -1,0 +1,52 @@
+/* Body styles */
+body {
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Box container styles */
+.box {
+    width: 500px;
+    height: 350px;
+    margin: 100px auto;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+
+.first-box {
+    box-sizing: border-box;
+    padding: 10px 30px;
+    margin-bottom: 12px;
+}
+
+.profile {
+    width: 85px;
+    height: 85px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: 8%;
+    margin-right: 15%;
+}
+
+.avatar {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+
+.second-box {
+    border-top: 1px solid lightgrey;
+    padding: 10px 30px;
+}
+
+.box-text {
+    color: #444746;
+    margin-bottom: 40px;
+}
+
+.box-link {
+    text-decoration: none;
+    color: #0b57d0;
+    border-radius: 10px;
+}
