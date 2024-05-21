@@ -1,0 +1,71 @@
+/* Global Styles */
+body {
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Box Styles */
+.box {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid #c4c7c5;
+    border-radius: 10px;
+}
+
+.main-img {
+    width: 100%;
+    height: 172px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* Plan Styles */
+.plan {
+    padding: 24px 16px 18px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 100, 'GRAD' 0, 'opsz' 24;
+}
+
+.plan-headline-text {
+    display: inline-block;
+    color: #5f6368;
+    font-size: 12px;
+    line-height: 1.1;
+    vertical-align: super;
+    margin-left: 6px;
+    font-weight: 500;
+}
+
+/* Box Heading Styles */
+.box-heading {
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+
+/* Box Text Styles */
+.box-text {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #5f6368;
+    font-weight: lighter;
+}
+
+/* Box Button Styles */
+.box-btn {
+    background: none;
+    border: 0.5px solid #c4c7c5;
+    border-radius: 5px;
+    font-weight: 500;
+    margin: 10px 0px;
+    padding: 10px 20px;
+}
+
+.box-btn a {
+    text-decoration: none;
+    color: #185abc;
+}
