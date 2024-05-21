@@ -58,8 +58,7 @@ h1 {
 .show-password {
     position: absolute;
     right: 50px;
-    top: 28%;
-    transform: translateY(-50%);
+    top:11px;
     cursor: pointer;
     color: #5f6368;
     font-size: 11px;
